@@ -15,6 +15,8 @@ cask "neardrop" do
 
   zap trash: [
     "~/Library/Application Scripts/me.grishka.NearDrop",
+    "~/Library/Application Scripts/me.grishka.NearDrop.ShareExtension",
     "~/Library/Containers/me.grishka.NearDrop",
+    "~/Library/Containers/me.grishka.NearDrop.ShareExtension",
   ]
 end
